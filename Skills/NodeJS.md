@@ -84,9 +84,9 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection k
   - noDelay
-  - keep-alive
+  - keep-alive h
   - IP sticky sessions
 - Technique and tools
   - Native test runner

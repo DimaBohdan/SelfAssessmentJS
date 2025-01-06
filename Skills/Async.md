@@ -4,7 +4,7 @@
   - Event loop
   - `try..catch`
   - Non-blocking
-  - Async I/O
+  - Async I/O h
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -26,7 +26,7 @@
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers k
   - `setImmediate`
   - `nextTick`
   - AbortController

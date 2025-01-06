@@ -1,20 +1,20 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store h
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases h
+  - Object databases h
   - Column databases
   - Navigational databases
-  - Hierarchical databases
+  - Hierarchical databases k
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
@@ -25,70 +25,70 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Primary keys u
+  - Foreign keys u
+  - Transactions k
   - Views
-  - Subqueries
+  - Subqueries k
   - Stored procedures
-  - SQL functions
+  - SQL functions k
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` u
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `ORDER BY` u
+  - `GROUP BY` k
+  - `HAVING` h
+  - `EXISTS` h
+  - `JOIN` u
+  - `INNER JOIN` k
+  - `LEFT JOIN` u
+  - `RIGHT JOIN` u
+  - `UNION` u
+  - `DISTINCT` r
+  - `WHERE` e
+  - `LIKE` u
+  - `IN` u
+  - `BETWEEN` u
+  - `CREATE TABLE` u
+  - `ALTER TABLE` h
+  - `DROP TABLE` k
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
   - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
+  - `DEFAULT` k
+  - `INDEX` h
+  - `UNIQUE` u
+  - `GRANT` h
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis h
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite u
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
+  - Big data h
+  - Data analysis h
+  - AI tools u
+  - Cloud databases h
   - Data Visualization

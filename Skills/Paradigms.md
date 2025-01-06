@@ -2,21 +2,21 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming h
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming k
   - Object-based programming
-  - Generic programming
+  - Generic programming h
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages h
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
@@ -27,21 +27,21 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor k
+  - Operator `new` k
   - Static method
-  - Method
+  - Method u
   - Async method
-  - Getters, Setters
+  - Getters, Setters u
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
+  - Inheritance e
   - Parent class
-  - Polymorphism
+  - Polymorphism e
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation u
   - Hidden class
   - Object form
   - Instance
@@ -58,15 +58,15 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) h
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton h
+  - Factory Method h
+  - Abstract Factory h
   - Adapter
   - Observer
   - Strategy
@@ -74,7 +74,7 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge
   - Builder
