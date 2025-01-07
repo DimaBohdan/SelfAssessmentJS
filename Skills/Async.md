@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` u
-  - Non-blocking k
-  - Async I/O k
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,60 +16,60 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming h
-  - Parallel programming k
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 🎓 known
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable u
-  - Promise k
-  - Async/await u
-  - Future k
+  - Thenable: 🖐️ used
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future: 🎓 known
   - Deferred
   - Sync generator
-  - Async Generator h
-  - Async Iterator k
-  - Event k
-  - Coroutine h
+  - Async Generator: 👂 heard
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 👂 heard
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility h
-  - Middleware k
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🎓 known
   - Locks
 - Async adapters and utils
-  - callbackify h
+  - callbackify: 👂 heard
   - promisify
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter k
-  - Observable/Observer k
-  - Readable k
-  - Writable k
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
-  - Async Pool k
-  - Async Queue h
+  - Async Pool: 🎓 known
+  - Async Queue: 👂 heard
   - Async Collector
-  - Semaphore h
-  - Mutex h
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers k
-  - `setImmediate` h
+  - Timers: 🎓 known
+  - `setImmediate`: 👂 heard
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics k
+  - Atomics: 🎓 known
   - High resolution clock
-  - Callback hell k
-  - Promise hell k
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library h
+  - Async.js library: 👂 heard
   - RxJS library
   - Promise.all
   - Promise.allSettled
