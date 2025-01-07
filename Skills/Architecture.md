@@ -4,9 +4,9 @@
   - Modularity
   - Components
   - Directories
-  - GRASP h
-  - SOLID k
-  - GoF patterns h
+  - GRASP: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
