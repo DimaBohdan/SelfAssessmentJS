@@ -3,16 +3,16 @@
 - Theory and concepts
   - Data types k
   - Performance tuning
-  - Migrations
+  - Migrations u
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store h
+  - Relational databases u
+  - Key-value store k
   - Tuple store
   - Graph databases h
   - Object databases h
-  - Column databases
+  - Column databases h
   - Navigational databases
   - Hierarchical databases k
   - In-memory databases
@@ -22,73 +22,73 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram k
   - Normal forms
   - Indexing
-  - Primary keys u
-  - Foreign keys u
+  - Primary keys k
+  - Foreign keys k
   - Transactions k
   - Views
-  - Subqueries k
+  - Subqueries u
   - Stored procedures
-  - SQL functions k
+  - SQL functions u
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization h
 - SQL
   - `SELECT` u
   - `INSERT` u
   - `UPDATE` u
   - `DELETE` u
   - `LIMIT` u
-  - `OFFSET`
+  - `OFFSET` h
   - `ORDER BY` u
   - `GROUP BY` k
   - `HAVING` h
   - `EXISTS` h
   - `JOIN` u
-  - `INNER JOIN` k
+  - `INNER JOIN` u
   - `LEFT JOIN` u
   - `RIGHT JOIN` u
-  - `UNION` u
-  - `DISTINCT` r
-  - `WHERE` e
+  - `UNION` k
+  - `DISTINCT` u
+  - `WHERE` u
   - `LIKE` u
   - `IN` u
   - `BETWEEN` u
   - `CREATE TABLE` u
-  - `ALTER TABLE` h
+  - `ALTER TABLE` u
   - `DROP TABLE` k
   - `PRIMARY KEY` u
   - `FOREIGN KEY` u
   - `CHECK`
-  - `DEFAULT` k
-  - `INDEX` h
+  - `DEFAULT` u
+  - `INDEX` k
   - `UNIQUE` u
-  - `GRANT` h
-  - `REVOKE`
-  - `DENY`
+  - `GRANT` k
+  - `REVOKE` k
+  - `DENY` h
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL h
+  - PostgreSQL u
+  - Oracle k
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis h
-  - Rabbit
+  - Rabbit h
   - MongoDB h
   - Memcached
   - Riak
   - DB2
   - SQLite u
   - DynamoDB
-  - Firebase
+  - Firebase h
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data h
-  - Data analysis h
+  - Data warehousing h
+  - Business intelligence h
+  - Big data k
+  - Data analysis k
   - AI tools u
-  - Cloud databases h
-  - Data Visualization
+  - Cloud databases u
+  - Data Visualization k
