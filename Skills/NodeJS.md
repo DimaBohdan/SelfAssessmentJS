@@ -11,20 +11,20 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules k
+  - ECMAScript modules h
+  - Module `node:module` k
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` k
+  - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection k
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach k
 - Environment
   - Command line arguments
   - Node.js CLI
@@ -65,61 +65,61 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API k
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) k
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST k
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS k
+  - DDoS k
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection k
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging k
+  - Application configuring k
+  - Testing k
   - CI/CD
-  - Readable
-  - Writable
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer k
+  - Console k
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer h
+  - Repository u
   - Active record
   - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Object-Relational Mapping h
+  - CRUD e
+  - DTO u
 - Error handling and debugging
-  - `Error`
+  - `Error` e
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins k
+  - Uncaught exceptions k
   - Heap dump
-  - Debugging tools
+  - Debugging tools k
   - Flame graph
   - Memory leaks
   - Resource leaks

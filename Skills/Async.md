@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop k
+  - `try..catch` u
+  - Non-blocking k
+  - Async I/O k
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,60 +16,60 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming h
+  - Parallel programming k
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable u
+  - Promise k
+  - Async/await u
+  - Future k
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Async Generator h
+  - Async Iterator k
+  - Event k
+  - Coroutine h
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
-  - Middleware
+  - Chain of responsibility h
+  - Middleware k
   - Locks
 - Async adapters and utils
-  - callbackify
+  - callbackify h
   - promisify
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter k
+  - Observable/Observer k
+  - Readable k
+  - Writable k
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool k
+  - Async Queue h
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore h
+  - Mutex h
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
+  - Timers k
+  - `setImmediate` h
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics k
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell k
+  - Promise hell k
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library h
   - RxJS library
   - Promise.all
   - Promise.allSettled
