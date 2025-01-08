@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-426&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-426&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/DimaBohdan/SelfAssessmentJS/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-426&nbsp;/&nbsp;594&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,11 +27,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `55` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `56` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `11` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `13` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `7` | `20` |
@@ -67,15 +67,11 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `global` | 🤷 unknown | ⟶  | 🎓 known |
-| `super` | 🎓 known | ⟶  | 🖐️ used |
-| Function declaration | 🎓 known | ⟶  | 🖐️ used |
+| `global` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Error` | 🎓 known | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `65` of `72` skills, `7` to be upgraded, and `42` above needed
+Total: you have `69` of `72` skills, `3` to be upgraded, and `42` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -87,11 +83,10 @@ Total: you have `65` of `72` skills, `7` to be upgraded, and `42` above needed
 | Async iterator | 🎓 known | ⟶  | 🖐️ used |
 | IIFE | 🎓 known | ⟶  | 🖐️ used |
 | Async IIFE | 🎓 known | ⟶  | 🖐️ used |
-| `global` | 🤷 unknown | ⟶  | 🖐️ used |
+| `global` | 👂 heard | ⟶  | 🖐️ used |
 | `globalThis` | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 🎓 known | ⟶  | 🖐️ used |
 | `delete` | 🎓 known | ⟶  | 🖐️ used |
-| `super` | 🎓 known | ⟶  | 🖐️ used |
 | `static` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseInt` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseFloat` | 👂 heard | ⟶  | 🖐️ used |
@@ -99,17 +94,14 @@ Total: you have `65` of `72` skills, `7` to be upgraded, and `42` above needed
 | Computed properties | 🤷 unknown | ⟶  | 🎓 known |
 | `for await` | 👂 heard | ⟶  | 🖐️ used |
 | `continue` | 🎓 known | ⟶  | 🖐️ used |
-| Function declaration | 🎓 known | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Reflect` | 👂 heard | ⟶  | 🎓 known |
 | `Error` | 🎓 known | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `69` of `98` skills, `29` to be upgraded, and `31` above needed
+Total: you have `73` of `98` skills, `25` to be upgraded, and `31` above needed
 
 ## [Async](/Skills/Async.md)
 

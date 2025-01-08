@@ -26,7 +26,7 @@
   - Optional chaining: 🎓 known
   - IIFE: 🎓 known
   - Async IIFE: 🎓 known
-  - `global` 👂 heard
+  - `global`: 👂 heard
   - `globalThis`: 👂 heard
   - `window`: 👂 heard
   - Getters and setters: 🖐️ used
@@ -107,8 +107,8 @@
   - `Error`: 🎓 known
   - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
-  - `WeakRef` 👂 heard
-  - `FinalizationRegistry` 👂 heard
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
