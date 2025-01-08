@@ -26,7 +26,7 @@
   - Optional chaining: 🎓 known
   - IIFE: 🎓 known
   - Async IIFE: 🎓 known
-  - `global`k
+  - `global` 👂 heard
   - `globalThis`: 👂 heard
   - `window`: 👂 heard
   - Getters and setters: 🖐️ used
@@ -45,7 +45,7 @@
   - Hoisting: 🎓 known
   - `delete`: 🎓 known
   - `in`: 🖐️ used
-  - `super`: 🎓 known
+  - `super`: 🖐️ used
   - `eval`: 🎓 known
   - `static`: 🎓 known
   - `Number.parseInt`: 🎓 known
@@ -81,7 +81,7 @@
 - Functions
   - Arrow function: 🙋 explained
   - Async function: 🖐️ used
-  - Function declaration: 🎓 known
+  - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object: 🎓 known
@@ -107,8 +107,8 @@
   - `Error`: 🎓 known
   - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
-  - `WeakRef`
-  - `FinalizationRegistry`
+  - `WeakRef` 👂 heard
+  - `FinalizationRegistry` 👂 heard
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
