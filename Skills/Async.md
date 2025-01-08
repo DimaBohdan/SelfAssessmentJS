@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
+  - Event loop: 👂 heard
   - `try..catch`: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -23,13 +23,13 @@
   - Process
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first
+  - Callback-last-error-first 🎓 known
   - Thenable: 🖐️ used
   - Promise: 🎓 known
   - Async/await: 🖐️ used
   - Future: 🎓 known
   - Deferred
-  - Sync generator
+  - Sync generator 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 🎓 known
   - Event: 🎓 known
@@ -42,8 +42,8 @@
   - Locks
 - Async adapters and utils
   - callbackify: 👂 heard
-  - promisify
-  - asyncify
+  - promisify 👂 heard
+  - asyncify 👂 heard
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
@@ -70,7 +70,7 @@
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
-  - ref() and unref()
+  - ref() and unref() 👂 heard
   - Error handling in async code
   - Better stack traces with return await
   - JSON streaming serialization
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library: 👂 heard
   - RxJS library
-  - Promise.all
+  - Promise.all 👂 heard
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any 👂 heard
   - Web Locks API
   - IPC
   - Channel API
