@@ -11,20 +11,20 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🎓 known
+  - Files `package.json`, `package-lock.json`: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🎓 known
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach: 🎓 known
 - Environment
   - Command line arguments
   - Node.js CLI
@@ -65,61 +65,61 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🎓 known
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): 🎓 known
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection k
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive h
+  - keep-alive: 👂 heard
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging: 🎓 known
+  - Application configuring: 🎓 known
+  - Testing: 🎓 known
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
   - Active record
   - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Object-Relational Mapping: 👂 heard
+  - CRUD: 🙋 explained
+  - DTO: 🖐️ used
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🙋 explained
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins: 🎓 known
+  - Uncaught exceptions: 🎓 known
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks
